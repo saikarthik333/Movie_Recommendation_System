@@ -1,4 +1,4 @@
-##Model performs the following:
+Model performs the following:
 
 1. **Data Loading and Preprocessing:** Loads movie and rating data, pivots the ratings data into a user-item matrix, and fills missing values with zeros.  It then filters the data to include only movies with at least 10 ratings and users with at least 50 ratings. This is visualized with scatter plots.
 
