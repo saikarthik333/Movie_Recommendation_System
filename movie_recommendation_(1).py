@@ -149,7 +149,7 @@ get_movie_recommendation('Iron Man')
 
 get_movie_recommendation('Iron Man 2')
 
-"""Our model works perfectly predicting the recommendation based on user behaviour and past search. So we conclude our
+"""model works perfectly predicting the recommendation based on user behaviour and past search. So we conclude our
 collaborative filtering here.
 
 """
